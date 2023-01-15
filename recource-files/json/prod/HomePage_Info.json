@@ -1,0 +1,72 @@
+{
+	"Nalco": [
+		{
+			"AdBodyText": "eCommerce continues to be enhanced to deliver the best experience, including the addition of chemical products.",
+			"AdHeaderText": "CHEMISTRY - NOW AVAILABLE"
+		},
+		{
+			"AdBodyText": "Amidst the uncertainty of the COVID-19 outbreak, Ecolab is helping customers navigate the reality of prolonged shutdowns and restricted site access.",
+			"AdHeaderText": "Rising to the Challenge"
+		},
+		{
+			"AdBodyText": "Helping you safely and confidently resume operations by partnering with Nalco Water on your hand sanitizing solution.",
+			"AdHeaderText": "ON SALE NOW – HAND SANITIZERS"
+		}
+	],
+	"Fb": [
+		{
+			"AdBodyText": "In response to the COVID-19 pandemic, Ecolab is producing hand sanitizer that aligns with the World Health Organization (WHO) formulation recommendation.",
+			"AdHeaderText": "ON SALE NOW – HAND SANITIZERS"
+		},
+		{
+			"AdBodyText": "ExelerateTM TUFSOIL is a ready-to-use gel cleaner and degreaser formulated to remove tough burnt-on soils in fryers, ovens, smokehouses, dryers, and environmental areas.",
+			"AdHeaderText": "Learn more about Exelerate TUFSOIL"
+		},
+		{
+			"AdBodyText": "Pest risk fluctuates throughout the year. It’s important to understand your operation's risks to win the fight against pests.",
+			"AdHeaderText": "FIND OUT YOUR PEST RISK"
+		}
+	],
+	"Institutional": [
+		{
+			"AdBodyText": "Need to request a service visit from your Ecolab representative? Service Requests can now be made online - 24/7 - click here to submit your request.",
+			"AdHeaderText": "Request Service"
+		},
+		{
+			"AdBodyText": "Your Ecolab team is here to support your business with a variety of tools and procedures aimed at helping keep your employees and guests safe.",
+			"AdHeaderText": "COVID-19 Resources"
+		},
+		{
+			"AdBodyText": "Introducing Sink & Surface Cleaner Sanitizer, the 2-in-1 food contact surface cleaner sanitizer helping you reduce risk while simplifying your cleaning procedures.",
+			"AdHeaderText": "Discover How"
+		}
+	],
+	"Pest": [
+		{
+			"AdBodyText": "Cleaning and disinfection are more critical to your business than ever. Ecolab’s Disinfection Service provides the necessary protection for your customers and staff.",
+			"AdHeaderText": "LEARN MORE HERE"
+		},
+		{
+			"AdBodyText": "Your time is valuable. Quickly and easily access any Pest Elimination safety data sheets and labels here.",
+			"AdHeaderText": "PEST SDS AND LABELS"
+		},
+		{
+			"AdBodyText": "View our on-demand rodent webinar which explores the implications of COVID-19 on rodent activity and how you can be proactive to prevent them in your facility.",
+			"AdHeaderText": "VIEW RODENT WEBINAR"
+		}
+	],
+	"TCD": [
+		{
+			"AdBodyText": "",
+			"AdHeaderText": "Ecolab Textile Care Product Guide"
+		},
+		{
+			"AdBodyText": "",
+			"AdHeaderText": "Ecolab Textile Care Sales Support Site"
+		},
+		{
+			"AdBodyText": "",
+			"AdHeaderText": "Ecolab Textile Care Parts Catalog "
+		}
+	]
+}

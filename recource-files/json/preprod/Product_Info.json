@@ -1,0 +1,358 @@
+{
+	"Nalco": [
+		{
+			"ProductCode": "500-P0106.88",
+			"ProductName": "Beaker - Glass 150mL",
+			"ProductQuantity": "1",
+			"ProductPrice": "$7.35 USD",
+			"ERPDescription": "BEAKER GLS 150ML",
+			"PackSize": "Each",
+			"CustomPricingUOM": "",
+			"SalesPrice": ""
+		},
+		{
+			"ProductCode": "3DT184.91",
+			"ProductName": "3D TRASAR™ 3DT184 - Corrosion Inhibitors Bulk",
+			"ProductQuantity": "1",
+			"ProductPrice": "$2.02 USD",
+			"ERPDescription": "",
+			"PackSize": "Bulk",
+			"CustomPricingUOM": "LBS",
+			"SalesPrice": ""
+		}
+	],
+	"Fb": [
+		{
+			"ProductCode": "10042414",
+			"ProductName": "Ammonium Buffer Refill Bottle - 8oz",
+			"ProductQuantity": "1",
+			"ProductPrice": "$11.00 USD",
+			"ERPDescription": "AMMONIUM BUFFER",
+			"PackSize": "Each"
+		},
+		{
+			"ProductCode": "6300955",
+			"ProductName": "PCC ALKALI - Non-Chlorinated Alkaline Cleaner 181.4KG/400LB",
+			"ProductQuantity": "1",
+			"ProductPrice": "$654.03 USD",
+			"ERPDescription": "",
+			"PackSize": ""
+		},
+		{
+			"ProductCode": "6110307",
+			"ProductName": "LIQUID K - Foaming Agent & General Purpose Cleaner 4-3.78L/4-1GL",
+			"ProductQuantity": "1",
+			"ProductPrice": "$83.37 USD",
+			"ERPDescription": "",
+			"PackSize": ""
+		},
+		{
+			"ProductCode": "6114522",
+			"ProductName": "Oasis 100 Neutral Floor Cleaner",
+			"ProductQuantity": "1",
+			"ProductPrice": "",
+			"ERPDescription": "",
+			"PackSize": ""
+		},
+		{
+			"ProductCode": "6300721",
+			"ProductName": "QUADEXX 100 - Caustic Based Alkalinity Concentrate Bulk",
+			"ProductQuantity": "1",
+			"ProductPrice": "$0.00 USD",
+			"ERPDescription": "",
+			"PackSize": ""
+		},
+		{
+			"ProductCode": "85016293",
+			"ProductName": "Flex Tubing 1x.125x6ft PVC - Air Gap Tubing",
+			"ProductQuantity": "1",
+			"ProductPrice": "$3.29 USD",
+			"ERPDescription": "",
+			"PackSize": ""
+		},
+		{
+			"ProductCode": "6059323",
+			"ProductName": "Revitalizing Skin Lotion",
+			"ProductQuantity": "1",
+			"ProductPrice": "$65.67 USD",
+			"ERPDescription": "",
+			"PackSize": ""
+		},
+		{
+			"ProductCode": "6300013",
+			"ProductName": "FOAM-SHINE - Acid Cleaner 208L/55GL",
+			"ProductQuantity": "1",
+			"ProductPrice": "$613.28 USD",
+			"ERPDescription": "",
+			"PackSize": ""
+		},
+		{
+			"ProductCode": "6300327",
+			"ProductName": "STER-BAC QUAT - Quaternary Ammonium Sanitizer 208L/55GL",
+			"ProductQuantity": "1",
+			"ProductPrice": "$761.04 USD",
+			"ERPDescription": "",
+			"PackSize": ""
+		}
+	],
+	"Institutional": [
+		{
+			"ProductCode": "85310015",
+			"ProductName": "Aluminum Spray Gun with Rear Trigger",
+			"ProductQuantity": "1",
+			"ProductPrice": "$244.55 USD",
+			"ERPDescription": "GUN SPY 1/2NPTX3/8NPT AL",
+			"PackSize": "Each"
+		},
+		{
+			"ProductCode": "6123671",
+			"ProductName": "DigiClean Foam Hand Soap",
+			"ProductQuantity": "",
+			"ProductPrice": "",
+			"ERPDescription": "",
+			"PackSize": "6 - 750 mL"
+		},
+		{
+			"ProductCode": "93203889",
+			"ProductName": "FRESH2O PREFILTER SYS NOT FOR CANADA",
+			"ProductQuantity": "",
+			"ProductPrice": "",
+			"ERPDescription": "",
+			"PackSize": "Each"
+		},
+		{
+			"ProductCode": "6100984",
+			"ProductName": "Oasis Pro 55 ZephAir Mountain Mist",
+			"ProductQuantity": "1",
+			"ProductPrice": "$211.34 USD",
+			"ERPDescription": "",
+			"PackSize": "2 - 2 L"
+		},
+		{
+			"ProductCode": "85310015",
+			"ProductName": "Aluminum Spray Gun with Rear Trigger",
+			"ProductQuantity": "1",
+			"ProductPrice": "$244.55 USD",
+			"ERPDescription": "",
+			"PackSize": "Each"
+		}
+	],
+	"ChemicalUOM": [
+		{
+			"ProductCode": "73551.91",
+			"ProductName": "NALSPERSE™ 73551 - Dispersant and Detergent - Bulk",
+			"ProductQuantity": "1",
+			"ProductPrice": "$0.97 USD",
+			"ERPDescription": "",
+			"PackSize": "",
+			"CustomPricingUOM": "",
+			"SalesPrice": ""
+		},
+		{
+			"ProductCode": "7408.91",
+			"ProductName": "NALCO® 7408 - Chlorine Removal - Bulk",
+			"ProductQuantity": "1",
+			"ProductPrice": "$0.62 USD",
+			"ERPDescription": "",
+			"PackSize": "",
+			"CustomPricingUOM": "",
+			"SalesPrice": ""
+		},
+		{
+			"ProductCode": "1404.91",
+			"ProductName": "NALCO® 1404 - Flocculant Bulk",
+			"ProductQuantity": "1",
+			"ProductPrice": "$1.56 USD",
+			"ERPDescription": "",
+			"PackSize": "Bulk",
+			"CustomPricingUOM": "LBS",
+			"SalesPrice": ""
+		},
+		{
+			"ProductCode": "460-S0940.75",
+			"ProductName": "3D TRASAR Calibration Solution 1L",
+			"ProductQuantity": "1",
+			"ProductPrice": "$95.00 USD",
+			"ERPDescription": "",
+			"PackSize": "1L Bottle",
+			"CustomPricingUOM": "EA",
+			"SalesPrice": ""
+		},
+		{
+			"ProductCode": "1221.01K",
+			"ProductName": "1221 - Dessicant - 3LB Bag",
+			"ProductQuantity": "1",
+			"ProductPrice": "$199.48 USD",
+			"ERPDescription": "",
+			"PackSize": "Bag",
+			"CustomPricingUOM": "EA",
+			"SalesPrice": "$49.87 USD Per LBS"
+		},
+		{
+			"ProductCode": "001-H05121.88",
+			"ProductName": "Indicator - Hardness (Powder) 0.25lbs",
+			"ProductQuantity": "1",
+			"ProductPrice": "$13.65 USD",
+			"ERPDescription": "",
+			"PackSize": "Each",
+			"CustomPricingUOM": "EA",
+			"SalesPrice": ""
+		},
+		{
+			"ProductCode": "000000000006025325",
+			"ProductName": "Filter Syringe - 25mm, 0.2 microns 50 count",
+			"ProductQuantity": "1",
+			"ProductPrice": "$346.65 USD",
+			"ERPDescription": "",
+			"PackSize": "Each",
+			"CustomPricingUOM": "EA",
+			"SalesPrice": ""
+		},
+		{
+			"ProductCode": "3DT465.38",
+			"ProductName": "3D TRASAR™ 3DT465 - Corrosion and Scale Inhibitor - Micro PORTA-FEED™",
+			"ProductQuantity": "1",
+			"ProductPrice": "$1,388.24 USD",
+			"ERPDescription": "",
+			"PackSize": "Micro PORTA-FEED",
+			"CustomPricingUOM": "EA",
+			"SalesPrice": "$10.36 USD Per LBS"
+		}
+	],
+	"ChemicalProducts": [
+		{
+			"ProductCode": "1825.31",
+			"ProductName": "Tri-ACT™ 1825 - Neutralizer - Senior PORTA-FEED™",
+			"ProductQuantity": "1",
+			"ProductPrice": "$12,295.53 USD",
+			"ERPDescription": "",
+			"PackSize": "",
+			"CustomPricingUOM": "EA",
+			"SalesPrice": ""
+		},
+		{
+			"ProductCode": "1221.01K",
+			"ProductName": "1221 - Dessicant Bag",
+			"ProductQuantity": "1",
+			"ProductPrice": "$198.80 USD",
+			"ERPDescription": "",
+			"PackSize": "",
+			"CustomPricingUOM": "EA",
+			"SalesPrice": ""
+		},
+		{
+			"ProductCode": "1221.01K",
+			"ProductName": "1221 - Dessicant Bag",
+			"ProductQuantity": "1",
+			"ProductPrice": "$194.35 USD",
+			"ERPDescription": "",
+			"PackSize": "",
+			"CustomPricingUOM": "EA",
+			"SalesPrice": ""
+		}
+	],
+	"TankNumber": [
+		{
+			"ProductCode": "3DT230.33",
+			"ProductName": "3D TRASAR™ 3DT230 - Corrosion and Scale Inhibitor - Junior PORTA-FEED™",
+			"ProductQuantity": "1",
+			"ProductPrice": "$5,978.04 USD",
+			"ERPDescription": "",
+			"PackSize": "",
+			"UnloadingPoint": "NORTH CHILLER PLANT",
+			"Tanker": "C43597"
+		},
+		{
+			"ProductCode": "500-R1342.88",
+			"ProductName": "Conductivity Sensor - Replacement For Conductivity Meter: 420-C0050.88 & 420-C00",
+			"ProductQuantity": "1",
+			"ProductPrice": "$296.00 USD",
+			"ERPDescription": "",
+			"PackSize": "",
+			"UnloadingPoint": "POWER HOUSE",
+			"Tanker": ""
+		},
+		{
+			"ProductCode": "3DT184.91",
+			"ProductName": "3D TRASAR™ 3DT184 - Corrosion Inhibitors Bulk",
+			"ProductQuantity": "1",
+			"ProductPrice": "$2.02 USD",
+			"ERPDescription": "",
+			"PackSize": "",
+			"UnloadingPoint": "POWER PLANT ",
+			"Tanker": "C10114"
+		},
+		{
+			"ProductCode": "460-S0940.75",
+			"ProductName": "3D TRASAR Calibration Solution 1L",
+			"ProductQuantity": "1",
+			"ProductPrice": "$95.00 USD",
+			"ERPDescription": "",
+			"PackSize": "",
+			"UnloadingPoint": "POWER PLANT-COOLING TOWER",
+			"Tanker": ""
+		},
+		{
+			"ProductCode": "8187.31",
+			"ProductName": "ULTRION™ 8187 - Coagulant - Senior PORTA-FEED™",
+			"ProductQuantity": "1",
+			"ProductPrice": "$8,537.50 USD",
+			"ERPDescription": "",
+			"PackSize": "",
+			"UnloadingPoint": "PAPER MILL",
+			"Tanker": "Drop-Off"
+		},
+		{
+			"ProductCode": "7128.33",
+			"ProductName": "OPTIMER™ 7128 - Flocculant - Junior PORTA-FEED™",
+			"ProductQuantity": "1",
+			"ProductPrice": "$5,970.60 USD",
+			"ERPDescription": "",
+			"PackSize": "",
+			"UnloadingPoint": "PAPER MILL",
+			"Tanker": "Drop-Off"
+		},
+		{
+			"ProductCode": "8158.31",
+			"ProductName": "NALCO® 8158 - Coagulant - Senior PORTA-FEED™",
+			"ProductQuantity": "1",
+			"ProductPrice": "$5,444.60 USD",
+			"ERPDescription": "",
+			"PackSize": "",
+			"UnloadingPoint": "PAPER MILL",
+			"Tanker": "Drop-Off"
+		},
+		{
+			"ProductCode": "7735.33",
+			"ProductName": "NALCO® 7735 - Coagulant - Junior PORTA-FEED™",
+			"ProductQuantity": "1",
+			"ProductPrice": "$3,376.30  USD",
+			"ERPDescription": "",
+			"PackSize": "",
+			"UnloadingPoint": "PAPER MILL",
+			"Tanker": "Drop-Off"
+		}
+	],
+	"TCD": [
+		{
+			"ProductCode": "6200387",
+			"ProductName": "TURBO FRESH - Softener 55GL",
+			"ProductQuantity": "1",
+			"ProductPrice": "$617.48 USD ",
+			"ERPDescription": "",
+			"PackSize": "",
+			"CustomPricingUOM": "",
+			"SalesPrice": ""
+		},
+		{
+			"ProductCode": "6200387",
+			"ProductName": "TURBO FRESH - Softener 55GL",
+			"ProductQuantity": "1",
+			"ProductPrice": "",
+			"ERPDescription": "",
+			"PackSize": "",
+			"CustomPricingUOM": "",
+			"SalesPrice": ""
+		}
+	]
+}

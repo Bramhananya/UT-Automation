@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Smoke Suite]" data-provider-thread-count="3">
+  <test thread-count="5" name="Run Smoke Suite(failed)">
+    <classes>
+      <class name="ecolab.connect.runner.smokesuite.SmokeSuiteRunner">
+        <methods>
+          <include name="runScenario"/>
+          <include name="beforeClass"/>
+          <include name="closeBrowser"/>
+          <include name="openBrowser"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- ecolab.connect.runner.smokesuite.SmokeSuiteRunner -->
+    </classes>
+  </test> <!-- Run Smoke Suite(failed) -->
+</suite> <!-- Failed suite [Smoke Suite] -->

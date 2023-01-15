@@ -1,0 +1,34 @@
+{
+	"Nalco": [
+		{
+			"CustomerName": "Nalco2 AutomatedTestUser2",
+			"CustomerEmailId": "automationtestusernalco2@outlook.com",
+			"CustomerPhoneNumber": "",
+			"AttentionTo": "automationtestusernalco"
+		}
+	],
+	"Fb": [
+		{
+			"CustomerName": "FB1 AutomatedUserFB1",
+			"CustomerEmailId": "automationtestuserfb1@outlook.com",
+			"CustomerPhoneNumber": "",
+			"AttentionTo": "automationtestuserfb"
+		}
+	],
+	"Institutional": [
+		{
+			"CustomerName": "Automation TestUser2Insti",
+			"CustomerEmailId": "automationtestuser2insti@outlook.com",
+			"CustomerPhoneNumber": "",
+			"AttentionTo": "automationtestuser insti"
+		}
+	],
+	"TCD": [
+		{
+			"CustomerName": "TCD test_cnt_08",
+			"CustomerEmailId": "anooptestqa12@outlook.com",
+			"CustomerPhoneNumber": "",
+			"AttentionTo": "TCD User"
+		}
+	]
+}
